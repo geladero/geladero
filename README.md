@@ -1,4 +1,4 @@
-##  A 👋
+##  quando vc cair da escada não se preocupe do chão vc nao passa 👋
 
 <!--
 **geladero/geladero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
